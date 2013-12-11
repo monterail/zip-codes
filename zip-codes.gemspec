@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = "0.1.0"
   spec.authors       = ["Michał Duda"]
   spec.email         = ["michal.duda@monterail.com"]
-  spec.description   = %q{Gem to identify zip codes inside US}
+  spec.description   = %q{Identify city and state for given zip code}
   spec.summary       = %q{Gem to identify zip codes inside US}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/monterail/zip-codes"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
