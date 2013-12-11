@@ -5,7 +5,7 @@ require 'grape/kaminari/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "zip-codes"
-  spec.version       = "0.1.0"
+  spec.version       = ZipCodes::VERSION
   spec.authors       = ["Michał Duda"]
   spec.email         = ["michal.duda@monterail.com"]
   spec.description   = %q{Identify city and state for given zip code}

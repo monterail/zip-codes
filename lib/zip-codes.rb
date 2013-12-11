@@ -1,6 +1,8 @@
 require 'yaml'
 
 module ZipCodes
+  VERSION = '0.1.0'
+
   class << self
     def identify code
       db[code]
