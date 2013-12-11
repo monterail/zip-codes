@@ -1,6 +1,6 @@
-# Zip::Codes
+# ZipCodes
 
-TODO: Write a gem description
+Simple gem to get city and state for given zip code. It has yaml database bundled with it, so you need several mb of memory for whole hash.
 
 ## Installation
 
@@ -18,7 +18,17 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+Zip.identify('30301')
+# => {:state_code=>"GA", :state_name=>"Georgia", :city=>"Atlanta"}
+# First run will take while, as yaml has to be loaded
+```
+
+If you are using Rails, you can load hash on app startup for production and staging.
+```ruby
+# config/initializers/load_zip_codes.rb
+ZipCodes.load unless Rails.env.development?
+```
 
 ## Contributing
 
