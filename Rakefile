@@ -6,7 +6,6 @@ task :convert do
   File.open('lib/data/US.txt').each_line do |line|
     array = line.split("\t")
     codes[array[1]] = {
-      zip_code:   array[1],
       state_code: array[4],
       state_name: array[3],
       city:       array[2]
