@@ -19,7 +19,7 @@ Or install it yourself as:
 ## Usage
 
 ```ruby
-Zip.identify('30301')
+ZipCodes.identify('30301')
 # => {:state_code=>"GA", :state_name=>"Georgia", :city=>"Atlanta"}
 # First run will take while, as yaml has to be loaded
 ```
