@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
   spec.version       = ZipCodes::VERSION
   spec.authors       = ["Michał Duda"]
   spec.email         = ["michal.duda@monterail.com"]
-  spec.description   = %q{Identify city and state for given zip code}
+  spec.description   = %q{Simple gem to get city, state, and time zone for a given zip code}
   spec.summary       = %q{Gem to identify zip codes inside US}
   spec.homepage      = "https://github.com/monterail/zip-codes"
   spec.license       = "MIT"
