@@ -10,9 +10,9 @@ module ZipCodes
 
     def db
       @db ||= begin
-        spec  = Gem::Specification.find_by_name("zip-codes")
-        us    = spec.gem_dir + "/lib/data/US.yml"
-        YAML.load(File.open(us))
+        this_file = File.expand_path(File.dirname(__FILE__))
+        us_data = File.join(this_file, "data", "US.yml")
+        YAML.load(File.open(us_data))
       end
     end
 
