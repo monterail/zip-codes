@@ -1,10 +1,10 @@
-require "bundler/gem_tasks"
+require 'bundler/gem_tasks'
 require 'yaml'
 
 task :convert do
   codes = {}
   File.open('lib/data/US.txt').each_line do |line|
-    array = line.split("\t")
+    array = line.split('\t')
     codes[array[1]] = {
       state_code: array[4],
       state_name: array[3],
@@ -12,7 +12,7 @@ task :convert do
     }
   end
 
-  File.open("lib/data/US.yml", "w") do |file|
+  File.open('lib/data/US.yml', 'w') do |file|
     file.write codes.to_yaml
   end
 end
