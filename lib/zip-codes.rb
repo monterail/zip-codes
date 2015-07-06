@@ -7,6 +7,28 @@ module ZipCodes
     def identify(code)
       db[code]
     end
+    
+    def identify_by_city_and_state_name(options)
+      # set default value if no match is found
+      zip = nil
+      
+      # make values case insensitive
+      state_name = options[:state_name].downcase
+      city = options[:city].downcase
+      
+      # returns the zip code of the first matching city and state_name record
+      db.each do |key, value|
+        if (value[:city].downcase == city && value[:state_name].downcase == state_name)
+          # return current key (zip code) and break loop
+          # when the first match is found
+          zip = key
+          break
+        end
+      end
+      
+      # return zip as nil or the zip code that was assigned during the loop
+      zip
+    end
 
     def db
       @db ||= begin
@@ -18,6 +40,10 @@ module ZipCodes
 
     def load
       db
+    end
+    
+    def find(options)
+      identify_by_city_and_state_name(options)
     end
   end
 end

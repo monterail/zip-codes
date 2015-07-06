@@ -22,6 +22,14 @@ Or install it yourself as:
 ZipCodes.identify('30301')
 # => {:state_code=>"GA", :state_name=>"Georgia", :city=>"Atlanta", :time_zone=>"America/New_York"}
 # First run will take a while, as the yaml has to be loaded
+
+ZipCodes.identify_by_city_and_state_name({city: "Baltimore", state_name: "Maryland"})
+# => 21240
+# This will return the first matching zip code for that city and state
+#
+# Can use the alias ZipCodes.find instead: 
+# ZipCodes.find({city: "Baltimore", state_name: "Maryland"}) 
+# => 21240
 ```
 
 If you are using Rails, you can load the hash on app startup for production and staging.
