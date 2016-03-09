@@ -1,0 +1,5705 @@
+---
+'01001':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Žilina 1"
+'01003':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Žilina 3"
+'01004':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Žilina 4"
+'01007':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Žilina 7"
+01008:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Žilina 8"
+01009:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Žilina 9"
+'01014':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Žilina 14"
+'01015':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Žilina 15"
+'01301':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Teplička nad Váhom
+'01302':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Gbeľany pri Žiline
+'01303':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Varín
+'01304':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Dolná Tižina
+'01305':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Belá pri Varíne
+'01306':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Terchová
+'01311':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Lietavská Lúčka
+'01312':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Turie
+'01313':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Rajecké Teplice
+'01314':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Kamenná Poruba
+'01315':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Rajecká Lesná
+01318:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Lietava
+01319:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Kľače
+'01322':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Rosina
+'01323':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Višňové pri Žiline
+'01324':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Strečno
+'01325':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Stráňavy
+'01331':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Divina
+'01332':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Dlhé Pole
+'01341':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Dolný Hričov
+'01342':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Horný Hričov
+'01351':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Predmier
+'01352':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Súľov
+'01353':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Petrovice pri Bytči
+'01354':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Kolárovice
+'01355':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Štiavnik"
+'01356':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Hvozdnica
+'01361':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Kotešová
+'01362':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Veľké Rovné
+'01401':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bytča 1
+'01501':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Rajec nad Rajčiankou
+'01701':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Považská Bystrica 1
+'01704':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Považská Bystrica 4
+'01705':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Považská Bystrica 5
+'01706':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Považská Bystrica 6
+'01707':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Považská Bystrica 7
+01801:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Udiča
+01802:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Dolná Mariková
+01803:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Horná Mariková
+01812:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Brvnište
+01813:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Papradno
+01815:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Prečín
+01816:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Domaniža
+01817:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Jasenica
+01821:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Dolný Lieskov
+01822:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Pružina
+01826:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Plevník-Drienové
+01831:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Košecké Podhradie
+01832:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Zliechov
+01835:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Horná Poruba
+01841:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Dubnica nad Váhom 1
+01851:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Nová Dubnica
+01852:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Pruské
+01853:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bolešov
+01854:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Slávnica
+01855:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Tuchyňa
+01856:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Červený Kameň"
+01857:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Mikušovce
+01861:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Beluša
+01863:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Ladce
+01864:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Košeca
+01901:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Ilava
+'02001':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Púchov 1
+'02051':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Dohňany
+'02052':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Mestečko
+'02053':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Lúky
+'02054':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Lysá pod Makytou
+'02055':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Lazy pod Makytou
+'02061':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Lednické Rovne
+'02062':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Horovce pri Púchove
+'02063':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Lednica
+'02064':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Zubák
+'02071':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Nimnica
+'02072':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Mojtín
+'02201':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Čadca 1"
+'02204':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Čadca 4"
+'02301':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Oščadnica
+'02302':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Krásno nad Kysucou
+'02303':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Zborov nad Bystricou
+'02304':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Stará Bystrica
+'02305':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Nová Bystrica pri Čadci
+'02311':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Zákopčie
+'02312':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Svrčinovec
+'02313':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Čierne pri Čadci"
+'02314':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Skalité
+'02321':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Korňa
+'02322':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Klokočov pri Čadci
+'02331':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Rudina
+'02332':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Snežnica
+'02333':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Povina
+'02334':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Kysucký Lieskovec
+'02335':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Ochodnica
+'02336':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Radoľa
+'02341':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Nesluša
+'02345':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Horný Vadičov
+'02351':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Raková
+'02352':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Olešná pri Čadci
+'02353':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Staškov
+'02354':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Turzovka
+'02355':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Vysoká nad Kysucou
+'02356':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Makov na Slovensku
+'02357':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Podvysoká
+'02401':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Kysucké Nové Mesto 1
+'02404':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Kysucké Nové Mesto 4
+'02601':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Dolný Kubín 1
+'02705':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Zázrivá
+'02712':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Liesek
+'02713':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Suchá Hora
+'02721':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Žaškov"
+'02732':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Zuberec
+'02741':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Oravský Podzámok
+'02742':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Podbiel
+'02743':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Nižná nad Oravou
+'02744':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Tvrdošín 1
+'02751':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Kraľovany
+'02753':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Istebné nad Oravou
+'02754':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Veličná
+'02755':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Dlhá nad Oravou
+02801:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Trstená
+02901:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Námestovo 1
+02941:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Klin
+02942:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bobrov
+02943:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Zubrohlava
+02944:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Rabča
+02945:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Rabčice
+02946:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Sihelné
+02947:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Oravská Polhora
+02951:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Lokca
+02952:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Hruštín
+02953:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Breza
+02954:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Krušetnica
+02955:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Novoť
+02956:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Zákamenné
+02957:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Oravská Lesná
+02962:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Oravské Veselé
+02963:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Mútne
+02964:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Oravská Jasenica
+'03101':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Liptovský Mikuláš 1
+'03104':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Liptovský Mikuláš 4
+'03105':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Liptovský Mikuláš 5
+'03202':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Závažná Poruba
+'03203':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Liptovský Ján
+'03204':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Liptovský Ondrej
+'03205':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Smrečany
+'03211':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Svätý Kríž
+'03212':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Dúbrava pri Liptovskom Mikuláši
+'03213':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Vlašky
+'03214':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Ľubeľa"
+'03215':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Partizánska Ľupča
+'03221':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bobrovec
+'03223':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Liptovská Sielnica
+'03231':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Hybe
+'03232':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Východná
+'03233':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Kráľova Lehota
+'03234':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Malužiná
+'03242':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Pribylina
+'03244':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Liptovská Kokava
+'03261':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Važec
+'03301':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Liptovský Hrádok 1
+'03401':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Ružomberok 1
+'03403':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Ružomberok 3
+'03406':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Ružomberok 6
+'03471':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Ludrová
+'03472':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Liptovská Lúžna
+'03473':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Liptovská Osada
+'03474':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Liptovské Revúce
+03481:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Lisková
+03482:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Lúčky pri Ružomberku
+03483:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Liptovská Teplá
+03484:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Liptovské Sliače
+03491:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Ľubochňa"
+03492:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Stankovany
+03495:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Likavka
+03496:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Valaská Dubová
+'03601':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Martin 1
+03802:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Dražkovce pri Martine
+03803:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Sklabiňa pri Martine
+03804:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bystrička
+03811:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Belá pri Martine
+03812:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Necpaly
+03815:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Blatnica pri Martine
+03821:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Mošovce
+03822:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Slovenské Pravno
+03823:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Dubové pri Turčianskych Tepliciach
+03831:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Vrícko
+03835:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Valča
+03840:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Žabokreky"
+03841:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Košťany nad Turcom
+03842:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Príbovce
+03843:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Kláštor pod Znievom
+03844:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Jazernica
+03845:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Malý Čepčín
+03846:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Horná Štubňa
+03847:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Sklené
+03848:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Turček
+03851:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Turčianska Štiavnička
+03852:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Sučany
+03853:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Turany nad Váhom
+03854:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Krpeľany
+03861:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Vrútky
+03901:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Turčianske Teplice
+'04001':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Košice 1
+'04011':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Košice 11
+'04012':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Košice 12
+'04013':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Košice 13
+'04014':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Košice 14
+'04015':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Košice 15
+'04016':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Košice 16
+'04017':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Košice 17-Barca
+04018:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Košice 18-Krásna
+'04022':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Košice 22
+'04023':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Košice 23
+'04401':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Drienovec
+'04402':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Turňa nad Bodvou
+'04405':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Janík
+'04410':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Geča
+'04411':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Ždaňa"
+'04412':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Nižný Klátov
+'04413':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Valaliky
+'04414':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Čaňa"
+'04415':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Nižná Myšľa
+'04416':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bohdanovce pri Košiciach
+'04417':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Slanec
+04418:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Kalša
+04419:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Ruskov
+'04420':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Malá Ida
+'04421':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Šemša"
+'04423':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Jasov
+'04424':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Poproč
+'04425':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Medzev
+'04426':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Štós"
+'04431':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Družstevná pri Hornáde
+'04432':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Veľká Lodina
+'04441':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Sady nad Torysou
+'04442':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Rozhanovce
+'04443':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Budimír
+'04444':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Kráľovce pri Košiciach
+'04445':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bidovce
+'04447':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Kecerovce
+'04454':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Košice-Železiarne
+'04455':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Veľká Ida
+'04457':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Haniska
+04458:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Seňa
+'04461':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Zlatá Idka
+'04465':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Košická Belá
+'04471':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Čečejovce"
+'04473':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Buzica
+'04474':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Perín-Chym
+04481:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Kysak
+'04501':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Moldava nad Bodvou
+04801:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Rožňava 1
+04901:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Muráň 1
+04911:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Plešivec
+04912:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Gemerská Hôrka
+04913:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Hucín
+04914:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Licince
+04916:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Jelšava
+04918:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Lubeník
+04921:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Betliar
+04922:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Gemerská Poloma
+04923:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Nižná Slaná
+04924:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Vlachovo
+04925:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Dobšiná
+04926:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Rejdová
+04931:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Rožňavské Bystré
+04932:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Štítnik"
+04934:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Markuška
+04935:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Ochtiná
+04936:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Slavošovce
+04941:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Krásnohorské Podhradie
+04942:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Drnava
+04943:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Jablonov nad Turňou
+04944:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Hrhov
+04945:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Krásnohorská Dlhá Lúka
+04951:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Brzotín
+04952:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Silica
+04955:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Dlhá Ves
+04961:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Rákoš
+04962:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Kameňany
+04964:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Sirk
+04971:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Dobšinská Ľadová Jaskyňa
+04973:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Dedinky
+'05001':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Revúca 1
+'05201':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Spišská Nová Ves 1
+'05205':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Spišská Nová Ves 5
+'05301':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Harichovce
+'05302':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Spišský Hrhov
+'05303':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Jablonov pri Levoči
+'05304':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Spišské Podhradie
+'05305':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Beharovce
+'05306':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bijacovce
+'05311':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Smižany
+'05313':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Letanovce
+'05314':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Spišský Štvrtok
+'05315':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Hrabušice
+'05321':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Markušovce
+'05322':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Odorín
+'05323':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Rudňany
+'05331':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Novoveská Huta
+'05332':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Hnilčík
+'05333':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Nálepkovo
+'05334':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Švedlár"
+'05340':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Slovinky
+'05342':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Krompachy
+'05351':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Kluknava
+'05361':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Spišské Vlachy
+'05362':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bystrany pri Spišskej Novej Vsi
+'05363':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Spišský Hrušov
+'05371':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Vyšné Repaše
+'05373':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Brutovce
+'05375':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Hnilec
+'05376':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Mlynky
+'05401':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Levoča
+'05501':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Margecany
+'05551':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Veľký Folkmar
+'05552':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Kojšov
+'05561':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Jaklovce
+'05562':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Prakovce
+'05563':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Helcmanovce
+'05564':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Mníšek nad Hnilcom
+'05565':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Smolnícka Huta
+'05566':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Smolník
+'05571':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Žakarovce"
+'05601':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Gelnica
+05801:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Poprad 1
+05901:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Spišská Belá
+05902:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Slovenská Ves
+05904:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Spišské Hanušovce
+05906:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Červený Kláštor"
+05907:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Lendak
+05911:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Hozelec
+05912:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Hôrka pri Poprade
+05913:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Jánovce pri Poprade
+05914:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Spišský Štiavnik
+05916:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Hranovnica
+05917:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Vernár
+05918:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Spišské Bystré
+05919:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Vikartovce
+05921:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Svit
+05931:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Lučivná 1
+05934:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Spišská Teplica
+05935:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Batizovce
+05936:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Mengusovce
+05937:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Štôla"
+05938:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Štrba"
+05939:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Šuňava"
+05940:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Liptovská Teplička
+05941:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Tatranská Štrba
+05942:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Gerlachov
+05951:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Matejovce
+05952:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Veľká Lomnica
+05954:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Tatranská Kotlina
+05955:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Ždiar"
+05956:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Javorina
+05960:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Tatranská Lomnica
+05971:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Ľubica"
+05972:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Vrbov
+05973:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Žakovce"
+05976:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Mlynčeky
+05978:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Veľká Franková
+05979:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Osturňa
+05981:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Dolný Smokovec
+05983:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Nová Polianka
+05984:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Vyšné Hágy
+05985:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Štrbské Pleso"
+05986:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Nová Lesná
+05991:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Veľký Slavkov
+05992:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Huncovce
+05993:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bušovce
+05994:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Holumnica
+05995:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Toporec
+'06001':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Kežmarok 1
+'06101':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Spišská Stará Ves
+'06201':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Starý Smokovec
+'06401':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Stará Ľubovňa
+'06501':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Hniezdne
+'06502':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Vyšné Ružbachy
+'06503':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Podolínec
+'06511':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Nová Ľubovňa
+'06512':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Jakubany
+'06522':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Mníšek nad Popradom
+'06531':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Jarabina
+'06532':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Kamienka
+'06533':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Veľký Lipník
+'06534':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Veľká Lesná
+'06541':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Ľubotín"
+'06542':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Čirč"
+'06543':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Orlov nad Popradom
+'06544':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Plaveč nad Popradom
+'06545':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Plavnica
+'06546':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Malý Lipník
+06548:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Šarišské Jastrabie"
+'06601':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Humenné 1
+'06701':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Radvaň nad Laborcom
+'06702':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Čabiny"
+'06704':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Oľka
+'06711':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Ľubiša"
+'06712':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Koškovce
+'06713':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Rokytov pri Humennom
+'06716':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Výrava
+'06722':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Ohradzany
+'06723':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Baškovce pri Humennom
+'06724':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Lukačovce pri Humennom
+'06731':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Udavské
+'06732':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Vyšný Hrušov
+'06733':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Papín
+'06734':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Nižná Jablonka
+'06735':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Pčoliné
+'06741':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Chlmec
+'06745':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Topoľovka
+'06752':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Habura
+'06761':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Stakčín
+'06765':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Topoľa
+'06766':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Kolbasov
+'06767':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Ulič
+06768:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Zboj
+'06771':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Ladomirov pri Snine
+'06772':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Klenová
+'06773':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Ubľa
+'06777':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Zemplínske Hámre
+06781:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Belá nad Cirochou
+06782:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Dlhé nad Cirochou
+06783:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Kamenica nad Cirochou
+06801:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Medzilaborce
+06901:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Snina 1
+'07101':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Michalovce 1
+'07201':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Pozdišovce
+'07202':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Tušická Nová Ves
+'07203':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Rakovec nad Ondavou
+'07204':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Trhovište
+'07205':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bracovce
+'07206':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Malčice
+'07211':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Čečehov"
+'07213':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Palín
+'07214':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Pavlovce nad Uhom
+'07215':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Budkovce
+'07216':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Hatalov
+'07217':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Zemplínske Kopčany
+'07221':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Nacina Ves
+'07222':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Strážske
+'07223':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Staré
+'07231':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Vinné
+'07232':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Jovsa
+'07233':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Hnojné
+'07234':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Zalužice
+'07236':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Kaluža
+'07237':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Lastomír
+'07241':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Remetské Hámre
+'07242':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Úbrež"
+'07243':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Veľké Revištia
+'07244':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Blatné Remety
+'07251':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Krčava
+'07252':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Jenkovce
+'07253':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bežovce
+'07254':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Lekárovce
+'07255':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Porostov
+'07261':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Porúbka pri Sobranciach
+'07262':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Koromľa
+'07263':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Choňkovce
+'07264':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Podhoroď
+'07301':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Sobrance
+'07501':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Trebišov 1
+'07601':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Zemplínske Hradište
+'07602':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Novosad
+'07603':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Hraň
+'07605':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Cejkov
+'07612':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Kuzmice
+'07613':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Kazimír
+'07614':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Michaľany pri Trebišove
+'07615':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Veľaty
+'07616':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Úpor"
+'07617':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Nižný Žipov
+'07622':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Vojčice
+'07631':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Streda nad Bodrogom
+'07632':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Borša
+'07633':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Slovenské Nové Mesto
+'07634':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Ladmovce
+'07635':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Somotor
+'07636':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Veľký Kamenec
+'07637':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Rad
+'07641':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Biel
+'07642':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Veľké Trakany
+'07643':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Čierna nad Tisou"
+'07651':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Pribeník
+'07652':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Veľký Horeš
+'07653':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Boľ
+'07661':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bačkov
+'07662':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Parchovany
+'07664':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Zemplínska Teplica
+'07671':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Čičarovce"
+'07672':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Vojany
+'07674':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Drahňov
+'07675':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Oborín
+'07677':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Ruská
+07681:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Čerhov"
+07682:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Veľká Tŕňa
+07683:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Svätuše
+07684:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Leles
+'07701':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Kráľovský Chlmec 1
+07801:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Sečovce
+07901:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Veľké Kapušany
+08001:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Prešov 1
+08005:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Prešov 5
+08006:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Prešov 6
+08201:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Kendice
+08203:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Lemešany
+08204:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Drienov
+08205:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Šarišské Bohdanovce"
+08206:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Žehňa"
+08207:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Tuhrina
+08212:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Kapušany pri Prešove
+08213:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Tulčík
+08214:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Pušovce
+08215:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Chmeľov
+08216:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Fintice
+08221:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Veľký Šariš
+08222:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Šarišské Michaľany"
+08232:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Svinia
+08233:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Chminianska Nová Ves
+08235:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Hendrichovce
+08236:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Lipovce pri Prešove
+08237:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Široké"
+08238:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Víťaz
+08241:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bajerov
+08242:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bzenov
+08243:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Sedlice pri Prešove
+08244:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Klenov pri Prešove
+08252:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Kokošovce
+08253:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Petrovany
+08256:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Pečovská Nová Ves
+08257:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Ľutina"
+08261:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Ražňany
+08263:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Jarovnice
+08266:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Uzovce
+08267:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Terňa
+08271:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Lipany nad Torysou
+08273:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Šarišské Dravce"
+08274:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Brezovica nad Torysou
+08275:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Nižný Slavkov
+08276:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Torysa
+08301:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Sabinov
+08501:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bardejov 1
+08601:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Rokytov
+08602:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Gaboltov
+08604:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Kružlov
+08605:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Lukov pri Bardejove
+08606:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Malcov
+08611:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Hrabovec
+08612:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Kurima
+08614:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Hažlín
+08621:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Lukavica pri Bardejove
+08622:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Kľušov
+08631:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bardejovské kúpele
+08633:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Zborov
+08635:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Becherov
+08636:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Nižná Polianka
+08637:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Šarišské Čierne"
+08641:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Raslavice
+08642:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Hertník
+08643:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Koprivnica
+08644:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Kuková
+08645:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Marhaň
+08646:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Hankovce pri Giraltovciach
+08701:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Giraltovce
+08901:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Svidník
+09001:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Kapišová
+09002:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Kružlová
+09003:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Ladomirová
+09005:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Krajná Poľana
+09011:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Vyšný Orlík
+09016:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Cernina
+09021:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Chotča
+09022:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bukovce
+09023:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Havaj
+09024:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Miková
+09031:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Kolbovce
+09032:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Miňovce
+09033:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Turany nad Ondavou
+09034:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Tokajík
+09041:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Mestisko
+09042:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Okruhlé
+09101:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Stropkov
+09301:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Vranov nad Topľou 1
+09302:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Vranov nad Topľou 2
+09303:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Vranov nad Topľou 3
+09401:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Tovarné
+09402:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Slovenská Kajňa
+09403:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Žalobín"
+09404:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Nová Kelča
+09405:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Holčíkovce
+09406:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Košarovce
+09407:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Nižná Sitnica
+09408:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Ruská Poruba
+09409:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Sedliská
+09412:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Vechec
+09413:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Sačurov
+09414:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Sečovská Polianka
+09415:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Zámutov
+09421:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Nižný Hrabovec
+09422:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Nižný Hrušov
+09423:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Merník
+09431:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Hanušovce nad Topľou
+09433:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Vyšný Žipov
+09434:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bystré nad Topľou
+09435:
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Soľ
+'81101':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bratislava 1
+'81102':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bratislava 1
+'81103':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bratislava 1
+'81104':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bratislava 1
+'81105':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bratislava 1
+'81106':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bratislava 1
+'81107':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bratislava 1
+'81108':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bratislava 1
+'81109':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bratislava 1
+'82001':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bratislava 2
+'82101':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bratislava 2
+'82102':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bratislava 2
+'82103':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bratislava 2
+'82104':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bratislava 2
+'82105':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bratislava 2
+'82106':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bratislava 214
+'82107':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bratislava 214
+'82108':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bratislava 2
+'82109':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bratislava 2
+'83000':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bratislava 3
+'83004':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bratislava 34
+'83005':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bratislava 35
+'83006':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bratislava 36
+'83007':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bratislava 37
+'83101':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bratislava 37
+'83102':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bratislava 3
+'83103':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bratislava 3
+'83104':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bratislava 3
+'83106':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bratislava 35
+'83107':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bratislava 36
+'83151':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bratislava 34
+'83152':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bratislava 34
+'83153':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bratislava 34
+'83154':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bratislava 34
+'83155':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bratislava 34
+'84002':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bratislava 42
+'84008':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bratislava 48
+'84009':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bratislava 49
+'84101':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bratislava 42
+'84102':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bratislava 42
+'84103':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bratislava 42
+'84104':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bratislava 4
+'84105':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bratislava 4
+'84106':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bratislava 48
+'84107':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bratislava 49
+'84108':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bratislava 49
+'84110':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bratislava 49
+'85000':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bratislava 5
+'85009':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bratislava 59
+'85101':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bratislava 5
+'85102':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bratislava 5
+'85103':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bratislava 5
+'85104':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bratislava 5
+'85105':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bratislava 5
+'85106':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bratislava 5
+'85107':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bratislava 5
+'85110':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bratislava 59
+'90001':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Modra 1
+'90021':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Svätý Jur
+'90023':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Viničné pri Pezinku
+'90024':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Veľký Biel
+'90025':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Chorvátsky Grob
+'90026':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Slovenský Grob
+'90027':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bernolákovo
+'90028':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Ivanka pri Dunaji
+'90029':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Nová Dedinka
+'90031':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Stupava
+'90032':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Borinka pri Bratislave
+'90033':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Marianka
+'90041':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Rovinka
+'90042':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Dunajská Lužná
+'90043':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Hamuliakovo
+'90044':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Tomášov
+'90045':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Malinovo
+'90046':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Most pri Bratislave
+'90050':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Kráľová pri Senci
+'90051':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Zohor
+'90052':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Kuchyňa
+'90053':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Pernek pri Malackách
+'90054':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Jablonové
+'90055':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Lozorno
+'90061':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Gajary
+'90062':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Kostolište
+'90063':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Jakubov
+'90064':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Suchohrad
+'90065':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Záhorská Ves
+'90066':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Vysoká pri Morave
+'90067':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Láb
+'90068':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Plavecký Štvrtok
+'90081':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Šenkvice"
+'90082':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Blatné pri Senci
+'90083':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Čataj"
+'90084':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Báhoň
+'90085':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Vištuk
+'90086':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Budmerice
+'90088':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Doľany pri Častej
+'90089':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Častá"
+'90090':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Dubová pri Modre
+'90091':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Limbach
+'90101':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Malacky
+'90201':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Pezinok 1
+'90203':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Pezinok 1
+'90301':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Senec
+'90501':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Senica 1
+'90602':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Dojč
+'90603':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Smrdáky
+'90604':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Rohov
+'90605':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Sobotište
+'90606':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Vrbovce
+'90607':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Šajdíkove Humence"
+'90611':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Prietrž
+'90612':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Hradište pod Vrátnom
+'90613':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Brezová pod Bradlom
+'90614':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bukovec pri Myjave
+'90615':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Košariská
+'90621':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Jablonka
+'90622':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Poriadie
+'90623':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Rudník pri Myjave
+'90631':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Hlboké
+'90632':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Jablonica
+'90633':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Cerová
+'90634':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Prievaly
+'90635':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Plavecký Mikuláš
+'90636':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Plavecké Podhradie
+'90637':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Sološnica
+'90638':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Rohožník na Záhorí
+'90645':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Štefanov"
+'90701':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Myjava 1
+'90703':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Myjava 3
+'90801':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Kúty 1
+'90841':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Šaštín-Stráže 1"
+'90842':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Smolinské
+'90843':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Čáry"
+'90844':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Petrova Ves
+'90845':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Gbely
+'90846':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Unín pri Skalici
+'90847':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Radimov
+'90848':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Kopčany
+'90849':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Vrádište
+'90851':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Holíč 1
+'90861':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Popudinské Močidlany
+'90862':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Dubovce pri Skalici
+'90863':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Radošovce
+'90864':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Chropov
+'90865':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Mokrý Háj
+'90871':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Moravský Svätý Ján
+'90872':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Závod
+'90873':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Veľké Leváre
+'90874':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Malé Leváre
+'90875':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Studienka na Záhorí
+'90876':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Lakšárska Nová Ves
+'90877':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Borský Mikuláš
+'90878':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Kuklov
+'90879':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Borský Svätý Jur
+'90880':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Sekule
+'90885':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Brodské
+'90901':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Skalica 1
+'91101':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Trenčín 1
+'91105':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Trenčín 5
+'91106':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Trenčín 5
+'91108':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Trenčín 8
+'91303':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Drietoma
+'91304':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Chocholná-Velčice
+'91305':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Melčice-Lieskové
+'91307':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bošáca
+'91308':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Nová Bošáca
+'91311':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Trenčianske Stankovce
+'91321':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Trenčianska Turná
+'91322':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Trenčianske Jastrabie
+'91323':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Dubodiel
+'91324':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Svinná
+'91325':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bobot
+'91326':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Motešice
+'91331':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Skalka nad Váhom
+'91332':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Dolná Súča
+'91333':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Horná Súča
+'91336':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Selec
+'91338':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Soblahov
+'91401':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Trenčianska Teplá
+'91441':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Nemšová
+'91442':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Horné Srnie
+'91443':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Omšenie
+'91451':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Trenčianske Teplice
+'91501':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Nové Mesto nad Váhom
+'91601':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Stará Turá
+'91611':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bzince pod Javorinou
+'91612':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Lubina
+'91613':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Kostolné
+'91614':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Hrašné
+'91616':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Krajné
+'91621':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Čachtice"
+'91622':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Podolie
+'91623':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Pobedim
+'91624':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Horná Streda
+'91625':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Potvorice
+'91626':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Považany
+'91627':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Častkovce"
+'91631':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Kočovce
+'91632':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Hôrka nad Váhom
+'91633':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Hrádok nad Váhom
+'91635':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Modrová
+'91637':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Kálnica pri Novom Meste nad Váhom
+'91638':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Beckov
+'91641':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Dolné Srnie
+'91642':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Moravské Lieskové
+'91701':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Trnava 1
+'91702':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Trnava 2
+'91705':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Trnava 5
+'91708':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Trnava 8
+'91901':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Suchá nad Parnou
+'91902':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Dolné Orešany
+'91903':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Horné Orešany
+'91904':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Smolenice
+'91905':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Trstín
+'91906':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Naháč
+'91907':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bíňovce
+'91908':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Boleráz
+'91909':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bohdanovce nad Trnavou
+'91910':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Buková pri Trnave
+'91921':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Zeleneč pri Trnave
+'91922':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Majcichov
+'91923':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Vlčkovce
+'91924':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Križovany nad Dudváhom
+'91925':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Šúrovce"
+'91926':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Zavar
+'91927':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Brestovany
+'91928':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bučany
+'91929':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Malženice
+'91930':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Jaslovské Bohunice
+'91931':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Jaslovské Bohunice-atómová elektráreň
+'91932':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Opoj
+'91933':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Trakovice
+'91934':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Biely Kostol
+'91935':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Hrnčiarovce nad Parnou
+'91942':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Voderady pri Trnave
+'91943':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Cífer
+'91951':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Špačince"
+'91952':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Dolné Dubové
+'91953':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Dechtice
+'91954':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Dobrá Voda pri Trnave
+'91955':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Kátlovce
+'91961':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Ružindol
+'91965':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Dolná Krupá
+'92001':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Hlohovec 1
+'92003':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Hlohovec 3
+'92041':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Leopoldov
+'92042':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Červeník"
+'92052':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Siladice
+'92055':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bojničky
+'92056':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Dvorníky nad Váhom
+'92061':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Dolné Trhovište
+'92062':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Horné Otrokovce
+'92063':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Pastuchov
+'92064':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Kľačany pri Trnave
+'92065':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Sasinkovo
+'92066':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Horné Trhovište
+'92101':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Piešťany 1
+'92201':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Ostrov pri Piešťanoch
+'92202':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Krakovany na Slovensku
+'92203':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Vrbové
+'92204':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Dolný Lopašov
+'92205':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Chtelnica
+'92206':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Nižná pri Piešťanoch
+'92207':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Veľké Kostoľany
+'92208':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Veselé pri Piešťanoch
+'92209':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Borovce
+'92210':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Trebatice
+'92211':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Prašník
+'92221':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Moravany nad Váhom
+'92231':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Sokolovce
+'92241':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Drahovce
+'92242':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Madunice
+'92401':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Galanta 1
+'92501':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Matúškovo
+'92502':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Dolné Saliby
+'92503':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Horné Saliby
+'92504':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Tomašíkovo
+'92505':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Vozokany pri Galante
+'92506':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Čierna Voda"
+'92507':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Mostová
+'92508':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Čierny Brod"
+'92509':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Košúty
+'92521':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Sládkovičovo
+'92522':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Veľké Úľany
+'92523':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Jelka
+'92526':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Reca
+'92527':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Veľký Grob
+'92528':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Pusté Úľany
+'92532':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Veľká Mača
+'92541':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Kráľov Brod
+'92542':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Trstice
+'92545':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Abrahám
+'92551':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Šintava"
+'92552':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Šoporňa"
+'92553':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Pata
+'92554':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Zemianske Sady
+'92555':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Vinohrady nad Váhom
+'92562':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Váhovce
+'92563':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Dolná Streda
+'92571':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Trnovec nad Váhom
+'92572':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Selice
+'92581':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Diakovce
+'92582':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Tešedíkovo
+'92583':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Žihárec"
+'92584':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Vlčany
+'92585':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Neded
+'92591':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Kráľová nad Váhom
+'92592':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Kajal
+'92601':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Sereď 1
+'92701':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Šaľa 1"
+'92705':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Šaľa 5"
+'92901':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Dunajská Streda 1
+'93001':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Veľké Blahovo
+'93002':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Orechová Potôň
+'93003':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Kráľovičove Kračany
+'93004':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Baka
+'93005':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Gabčíkovo 1
+'93006':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Sap
+'93007':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Medveďov
+'93008':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Čiližská Radvaň"
+'93010':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Dolný Štál
+'93011':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Topoľníky
+'93012':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Ohrady
+'93013':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Trhová Hradská
+'93014':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Dolný Bar
+'93016':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Vydrany
+'93021':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Jahodná pri Dunajskej Strede
+'93025':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Vrakúň
+'93028':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Okoč
+'93030':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Rohovce
+'93031':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Vojka nad Dunajom
+'93032':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Blatná na Ostrove
+'93033':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Horný Bar
+'93034':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Holice na Ostrove
+'93035':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Michal na Ostrove
+'93036':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Horná Potôň
+'93037':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Lehnice
+'93038':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Nový Život
+'93039':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Zlaté Klasy
+'93040':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Štvrtok na Ostrove"
+'93041':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Kvetoslavov
+'93051':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Veľká Paka
+'93052':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Blahová
+'93101':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Šamorín"
+'93201':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Veľký Meder
+'93401':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Levice 1
+'93405':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Levice 5
+'93502':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Žemberovce"
+'93503':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bátovce
+'93504':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Devičany
+'93505':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Pukanec
+'93506':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Jabloňovce
+'93521':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Tlmače 1
+'93522':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Kozárovce
+'93523':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Rybník nad Hronom
+'93524':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Čajkov"
+'93525':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Nová Dedina pri Leviciach
+'93526':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Starý Tekov
+'93527':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Hronské Kosihy
+'93529':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Hronské Kľačany
+'93531':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Dolná Seč
+'93532':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Kalná nad Hronom
+'93533':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Nový Tekov
+'93534':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Veľký Ďur
+'93535':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Tehla
+'93536':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Beša
+'93537':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Dolný Pial
+'93538':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Lok
+'93539':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Mochovce
+'93541':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Tekovské Lužany
+'93551':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Tekovský Hrádok
+'93552':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Šarovce"
+'93555':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Hontianska Vrbica
+'93556':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Mýtne Ludany
+'93557':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Jur nad Hronom
+'93561':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Hronovce
+'93562':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Pohronský Ruskov
+'93563':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Čata"
+'93564':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Keť
+'93565':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Veľké Ludince
+'93566':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Farná pri Hrone
+'93567':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Málaš
+'93568':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Čaka"
+'93569':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Plavé Vozokany
+'93571':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Šalov"
+'93574':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Pastovce
+'93575':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Ipeľský Sokolec
+'93577':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Vyškovce nad Ipľom
+'93581':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Horné Turovce
+'93582':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Plášťovce
+'93584':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Horné Semerovce
+'93585':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Demandice
+'93586':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Hontianske Trsťany
+'93587':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Santovka
+'93601':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Šahy"
+'93701':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Želiezovce"
+'94002':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Nové Zámky 2
+'94101':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bánov pri Nových Zámkoch
+'94102':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Lipová pri Nových Zámkoch
+'94103':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Úľany nad Žitavou"
+'94104':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Mojzesovo
+'94105':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Černík"
+'94106':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Komjatice
+'94107':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Veľký Kýr
+'94108':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Rastislavice
+'94110':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Tvrdošovce
+'94111':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Palárikovo
+'94121':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Komoča
+'94122':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Zemné
+'94123':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Andovce
+'94131':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Dvory nad Žitavou
+'94132':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Semerovo
+'94133':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Kolta
+'94134':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Jasová pri Nových Zámkoch
+'94135':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Dubník pri Nových Zámkoch
+'94136':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Rúbaň
+'94137':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Strekov pri Nových Zámkoch
+'94141':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bešeňov
+'94142':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Veľké Lovce
+'94143':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Dolný Ohaj
+'94144':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Hul
+'94145':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Maňa
+'94146':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Trávnica
+'94147':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Radava pri Nových Zámkoch
+'94148':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Podhájska
+'94149':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bardoňovo
+'94150':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Dedinka
+'94151':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Pozba
+'94162':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Kmeťovo
+'94201':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Šurany 1"
+'94301':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Štúrovo 1"
+'94304':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Obid
+'94342':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Gbelce
+'94352':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Mužla
+'94353':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Ľubá"
+'94354':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Svodín
+'94355':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bruty
+'94356':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bíňa
+'94357':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Kamenín
+'94358':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Kamenný Most
+'94359':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Sikenička
+'94360':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Nána
+'94361':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Salka
+'94365':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Kamenica nad Hronom
+'94501':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Komárno 1
+'94504':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Komárno 4
+'94505':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Komárno 5
+'94601':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Kameničná pri Komárne
+'94602':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Čalovec"
+'94603':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Kolárovo
+'94612':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Zlatná na Ostrove
+'94613':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Okoličná na Ostrove
+'94614':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Zemianska Olča
+'94615':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Tôň
+'94616':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bodza
+'94617':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Sokolce na Ostrove
+'94619':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Číčov"
+'94621':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Veľké Kosihy
+'94631':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Chotín
+'94632':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Marcelová
+'94633':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Modrany pri Hurbanove
+'94634':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bátorove Kosihy
+'94635':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Búč
+'94636':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Kravany nad Dunajom
+'94637':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Moča
+'94638':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Radvaň nad Dunajom
+'94639':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Iža
+'94651':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Nesvady
+'94652':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Imeľ
+'94654':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bajč
+'94655':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Pribeta
+'94656':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Dulovce
+'94657':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Svätý Peter
+'94701':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Hurbanovo 1
+'94703':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Hurbanovo 3
+'94901':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Nitra 1
+'94905':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Nitra 5
+'94907':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Nitra 7
+'94911':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Nitra 11
+'95101':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Nitrianske Hrnčiarovce
+'95102':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Pohranice
+'95103':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Čeľadice"
+'95104':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Veľký Lapáš
+'95105':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Veľký Cetín
+'95106':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Vinodol
+'95107':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Čechynce"
+'95108':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Golianovo
+'95112':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Ivanka pri Nitre
+'95113':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Branč
+'95115':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Mojmírovce
+'95116':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Svätoplukovo
+'95117':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Cabaj- Čápor
+'95121':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Rišňovce
+'95122':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Alekšince
+'95123':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Lukáčovce pri Nitre
+'95124':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Nové Sady pri Nitre
+'95125':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Hruboňovo pri Nitre
+'95126':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Šurianky"
+'95131':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Močenok
+'95132':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Horná Kráľová
+'95133':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Hájske
+'95134':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Báb
+'95135':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Veľké Zálužie
+'95136':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Lehota pri Nitre
+'95137':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Rumanová
+'95141':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Lužianky
+'95142':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Zbehy
+'95143':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Jelšovce
+'95144':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Výčapy-Opatovce
+'95145':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Horné Lefantovce
+'95146':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Podhorany pri Nitre
+'95148':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Jarok
+'95151':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Nová Ves nad Žitavou
+'95152':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Slepčany
+'95153':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Klasov
+'95154':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Malé Chyndice
+'95161':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Čifáre"
+'95162':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Nevidzany
+'95171':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Sľažany
+'95172':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Neverice
+'95173':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Jelenec
+'95174':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Žirany"
+'95175':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Beladice
+'95176':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Tesárske Mlyňany
+'95177':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Ladice
+'95178':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Kolíňany
+'95181':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Nemčiňany
+'95182':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Malé Vozokany
+'95185':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Skýcov
+'95187':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Volkovce
+'95188':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Lúčnica nad Žitavou
+'95191':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Hosťovce
+'95192':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Lovce
+'95193':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Topoľčianky
+'95194':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Hostie
+'95195':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Obyce
+'95196':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Jedľové Kostoľany
+'95197':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Žitavany"
+'95201':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Vráble
+'95301':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Zlaté Moravce 1
+'95305':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Zlaté Moravce 5
+'95501':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Topoľčany 1
+'95503':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Topoľčany 3
+'95601':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bojná
+'95602':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Urmince
+'95603':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Hajná Nová Ves
+'95605':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Radošina
+'95606':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Šalgovce"
+'95607':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Veľké Ripňany
+'95608':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Horné Obdokovce
+'95611':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Ludanice
+'95612':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Preseľany
+'95613':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Koniarovce
+'95614':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Oponice
+'95615':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Kovarce
+'95616':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Nitrianska Streda
+'95617':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Solčany
+'95618':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bošany
+'95619':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Krnča
+'95621':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Jacovce
+'95622':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Prašice
+'95631':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Krušovce
+'95632':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Nadlice
+'95633':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Chynorany
+'95634':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Ostratice
+'95635':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Nedašovce pri Topoľčanoch
+'95636':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Rybany
+'95637':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Zlatníky pri Bánovciach nad Bebravou
+'95638':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Šišov"
+'95641':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Uhrovec
+'95652':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Podlužany pri Bánovciach nad Bebravou
+'95653':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Slatina nad Bebravou
+'95654':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Veľké Držkovce
+'95655':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Veľké Chlievany
+'95701':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bánovce nad Bebravou 1
+'95703':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bánovce nad Bebravou 1
+'95704':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bánovce nad Bebravou 1
+'95801':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Partizánske 1
+'95803':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Partizánske 1
+'95804':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Partizánske 1
+'95806':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Partizánske 1
+'95841':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Veľké Uherce
+'95842':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Brodzany
+'95843':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Krásno pri Topoľčanoch
+'95844':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Klátova Nová Ves
+'95845':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Veľký Klíž
+'95852':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Žabokreky nad Nitrou"
+'95853':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Skačany
+'95854':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Hradište pri Partizánskom
+'96001':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Zvolen 1
+'96201':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Zvolenská Slatina
+'96202':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Vígľaš
+'96204':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Kriváň
+'96205':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Hriňová
+'96212':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Detva-Sídlisko
+'96221':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Lieskovec
+'96223':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Očová
+'96225':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Slatinské Lazy
+'96231':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Sliač
+'96233':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Budča
+'96234':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Tŕnie
+'96237':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Kováčová pri Zvolene
+'96241':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bzovík
+'96243':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Senohrad
+'96244':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Litava na Slovensku
+'96251':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Čabradský Vrbovok"
+'96252':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Cerovo pri Krupine
+'96255':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Rykynčice
+'96261':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Dobrá Niva
+'96262':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Sása
+'96263':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Pliešovce 1
+'96265':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Hontianske Nemce
+'96266':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Sebechleby pri Krupine
+'96268':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Hontianske Tesáre
+'96271':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Dudince
+'96275':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Horný Tisovník
+'96301':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Krupina
+'96501':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Žiar nad Hronom 1"
+'96601':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Hliník nad Hronom
+'96602':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Vyhne
+'96603':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Sklené Teplice
+'96604':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Horná Ždaňa
+'96611':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Trnava Hora
+'96615':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Banská Belá
+'96621':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Lovča
+'96622':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Lutila
+'96623':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Lovčica-Trubín
+'96624':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Janova Lehota
+'96641':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Veľká Lehota pri Novej Bani
+'96642':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Malá Lehota pri Novej Bani
+'96651':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Rudno nad Hronom
+'96652':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Tekovská Breznica
+'96653':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Hronský Beňadik
+'96654':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Tekovské Nemce
+'96661':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Hodruša-Hámre 1
+'96663':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Hodruša - Hámre 1
+'96671':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Horné Hámre
+'96674':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Veľké Pole
+'96677':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Ostrý Grúň
+'96678':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Hrabičov
+'96681':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Žarnovica"
+'96701':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Kremnica 1
+'96801':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Nová Baňa
+'96901':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Banská Štiavnica 1
+'96972':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Svätý Anton
+'96973':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Prenčov
+'96981':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Štiavnické Bane"
+'96982':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Podhorie
+'97101':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Prievidza 1
+'97201':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bojnice
+'97202':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Opatovce nad Nitrou
+'97205':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Sebedražie
+'97211':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Lazany pri Prievidzi
+'97212':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Nedožery
+'97213':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Nitrianske Pravno
+'97214':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Tužina
+'97215':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Kľačno
+'97216':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Pravenec
+'97217':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Kanianka
+'97221':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Nitrianske Sučany
+'97222':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Nitrica
+'97223':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Dolné Vestenice
+'97224':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Diviacka Nová Ves
+'97225':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Diviaky nad Nitricou
+'97226':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Nitrianske Rudno
+'97227':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Liešťany
+'97228':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Valaská Belá
+'97229':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Čavoj"
+'97231':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Ráztočno
+'97232':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Chrenovec
+'97241':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Koš
+'97242':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Lehota pod Vtáčnikom
+'97243':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Zemianske Kostoľany
+'97244':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Kamenec pod Vtáčnikom
+'97245':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bystričany
+'97246':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Čereňany"
+'97247':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Oslany
+'97248':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Horná Ves
+'97251':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Handlová
+'97271':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Nováky
+'97401':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Banská Bystrica 1
+'97404':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Banská Bystrica 4
+'97405':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Banská Bystrica 5
+'97409':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Banská Bystrica 9
+'97411':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Banská Bystrica 11
+'97602':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Staré Hory
+'97603':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Harmanec
+'97611':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Selce pri Banskej Bystrici
+'97613':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Slovenská Ľupča
+'97631':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Vlkanová
+'97632':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Badín
+'97633':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Poniky
+'97634':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Tajov
+'97637':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Hrochoť
+'97639':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Donovaly
+'97644':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Mýto pod Ďumbierom
+'97645':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Hronec
+'97646':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Valaská
+'97651':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Horná Lehota pri Brezne
+'97652':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Čierny Balog"
+'97653':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Lom nad Rimavicou
+'97655':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Ľubietová"
+'97656':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Pohronská Polhora
+'97657':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Michalová
+'97661':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Lučatín
+'97662':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Brusno
+'97663':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Predajná
+'97664':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Beňuš
+'97666':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Polomka
+'97667':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Závadka nad Hronom
+'97668':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Heľpa
+'97669':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Pohorelá
+'97671':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Šumiac"
+'97673':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Telgárt
+'97675':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Jasenie
+'97681':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Podbrezová
+'97696':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Medzibrod
+'97697':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Nemecká nad Hronom
+'97698':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Lopej
+'97701':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Brezno
+'97703':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Brezno 3
+'97901':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Rimavská Sobota 1
+'98001':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Rimavské Janovce
+'98002':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Jesenské
+'98003':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Šimonovce"
+'98004':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Hostice
+'98011':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Ožďany
+'98012':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Hrnčiarske Zalužany
+'98013':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Hrnčiarska Ves
+'98021':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bátka
+'98022':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Veľký Blh
+'98023':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Teplý Vrch
+'98025':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Hrušovo
+'98026':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Lukovištia
+'98031':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Hodejov
+'98032':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Blhovce
+'98033':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Hajnáčka
+'98034':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Nová Bašta
+'98035':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Gemerský Jablonec
+'98041':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Dubovec
+'98042':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Rimavská Seč
+'98043':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Číž"
+'98044':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Lenartovce
+'98045':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Štrkovec"
+'98046':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Gemerská Panica
+'98050':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Včelince
+'98051':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Veľké Teriakovce
+'98052':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Hrachovo
+'98053':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Rimavská Baňa
+'98054':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Rimavské Brezovo
+'98055':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Klenovec
+'98061':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Tisovec
+'98101':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Hnúšťa 1
+'98201':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Tornaľa
+'98251':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Figa
+'98252':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Nižná Kaloša
+'98262':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Gemerská Ves
+'98265':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Ratková
+'98266':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Ratkovské Bystré
+'98267':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Rovné
+'98401':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Lučenec 1
+'98403':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Lučenec 3
+'98501':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Kalinovo
+'98502':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Breznička
+'98503':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "České Brezovo"
+'98505':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Kokava nad Rimavicou
+'98506':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Utekáč
+'98507':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Šoltýska"
+'98511':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Halič
+'98512':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Tuhár
+'98513':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Ábelová"
+'98522':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Cinobaňa
+'98524':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Rovňany
+'98525':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Uhorské
+'98526':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Málinec
+'98531':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Rapovce
+'98532':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Veľká nad Ipľom
+'98541':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Šávoľ"
+'98542':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Veľké Dravce
+'98545':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Látky
+'98551':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Podkriváň
+'98552':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Divín
+'98553':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Mýtna
+'98554':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Lovinobaňa
+'98556':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Tomášovce
+'98557':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Holiša
+'98558':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Radzovce
+'98559':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Vidiná
+'98601':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Fiľakovo
+'98701':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Poltár
+'99001':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Veľký Krtíš
+'99101':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Senné
+'99102':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Dolná Strehová
+'99103':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Pôtor
+'99105':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Sklabiná
+'99106':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Želovce"
+'99107':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Slovenské Ďarmoty
+'99108':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Lesenice
+'99109':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Veľká Čalomija
+'99110':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Veľká Ves nad Ipľom
+'99111':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Balog nad Ipľom
+'99121':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Závada
+'99122':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Bušince
+'99123':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Veľké Zlievce
+'99124':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Dolné Plachtince
+'99125':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Čebovce"
+'99126':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Nenince
+'99127':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Kamenné Kosihy
+'99128':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Vinica
+'99135':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Dačov Lom
+'99141':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: "Čelovce"
+'99142':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Hrušov
+'99201':
+  :state_code: SK
+  :state_name: Slovenská republika
+  :city: Modrý Kameň
