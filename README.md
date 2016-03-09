@@ -29,7 +29,7 @@ ZipCodes.identify('16000', ["CZ", "SK"])
 # => {:state_code=>"CY", :state_name=>"Česká republika", :city=>"Praha 6"}
 
 ```
-First run will take a while, as the yaml has to be loaded
+First run or run after change countries will take a while, as the yaml has to be loaded
 
 Available countries:
 ```

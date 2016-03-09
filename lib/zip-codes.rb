@@ -1,16 +1,21 @@
 require 'yaml'
 
 module ZipCodes
-  VERSION = '0.2.1'
+  VERSION = '0.2.2'
 
   class << self
 
-    def init_db(arr)
+    def reinit_db(arr)
       @db = nil
       @countries = arr
     end
 
-    def load_db
+    def identify(code, countries = ["US"])
+      reinit_db(countries) if @countries == nil || (countries.sort != @countries.sort)
+      db[code]
+    end
+
+    def db
       @db ||= begin
         hash = {}
         @countries.each do |country|
@@ -21,16 +26,6 @@ module ZipCodes
         end
         hash
       end
-      @db
-    end
-
-    def identify(code, countries = ["US"])
-      init_db(countries) if @countries == nil || (countries.sort != @countries.sort)
-      db[code]
-    end
-
-    def db
-      load_db
     end
 
     def load
