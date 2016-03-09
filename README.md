@@ -21,12 +21,15 @@ ZipCodes.identify(ZIP_CODE, optional: array_of_countries(default => ["US"]))
 ```ruby
 ZipCodes.identify('30301')
 # => {:state_code=>"GA", :state_name=>"Georgia", :city=>"Atlanta", :time_zone=>"America/New_York"}
+
 ZipCodes.identify('06601', ["CZ", "SK"])
 # => {:state_code=>"SK", :state_name=>"Slovenská republika", :city=>"Humenné 1"}
+
 ZipCodes.identify('16000', ["CZ", "SK"])
 # => {:state_code=>"CY", :state_name=>"Česká republika", :city=>"Praha 6"}
-# First run will take a while, as the yaml has to be loaded
+
 ```
+First run will take a while, as the yaml has to be loaded
 
 If you are using Rails, you can load the hash on app startup for production and staging.
 ```ruby
