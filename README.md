@@ -33,9 +33,7 @@ First run will take a while, as the yaml has to be loaded
 
 Available countries:
 ```
-US
-SK
-CZ
+US, SK, CZ
 ```
 
 If you are using Rails, you can load the hash on app startup for production and staging.
