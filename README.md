@@ -17,7 +17,7 @@ Or install it yourself as:
     $ gem install zip-codes
 
 ## Usage
-ZipCodes.identify(ZIP_CODE, array_of_countries(optional: default => ["US"]))
+ZipCodes.identify(ZIP_CODE, optional: array_of_countries(default => ["US"]))
 ```ruby
 ZipCodes.identify('30301')
 # => {:state_code=>"GA", :state_name=>"Georgia", :city=>"Atlanta", :time_zone=>"America/New_York"}
