@@ -6,7 +6,7 @@ Simple gem to get city, state, and time zone for a given zip code. It has a yaml
 
 Add this line to your application's Gemfile:
 
-    gem 'zip-codes'
+    gem 'zip-codes', :git => 'git://github.com/Chester929/zip-codes.git'
 
 And then execute:
 
@@ -14,7 +14,10 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install zip-codes
+    $ git clone 'git://github.com/Chester929/zip-codes.git'
+    $ cd zip-codes
+    $ rake build
+    $ gem install pkg/zip-codes-0.2.1.gem
 
 ## Usage
 ZipCodes.identify(ZIP_CODE, optional: array_of_countries(default => ["US"]))
@@ -30,6 +33,23 @@ ZipCodes.identify('16000', ["CZ", "SK"])
 
 ```
 First run will take a while, as the yaml has to be loaded
+
+
+To add new db, just add yml file to lib/data path with format like this:
+```yaml
+---
+'34050':
+  :state_code: AA
+  :state_name: ''
+  :city: FPO
+'34034':
+  :state_code: AA
+  :state_name: ''
+  :city: APO
+
+...
+
+```
 
 If you are using Rails, you can load the hash on app startup for production and staging.
 ```ruby
