@@ -17,11 +17,23 @@ Or install it yourself as:
     $ gem install zip-codes
 
 ## Usage
-
+ZipCodes.identify(ZIP_CODE, optional: array_of_countries(default => ["US"]))
 ```ruby
 ZipCodes.identify('30301')
 # => {:state_code=>"GA", :state_name=>"Georgia", :city=>"Atlanta", :time_zone=>"America/New_York"}
-# First run will take a while, as the yaml has to be loaded
+
+ZipCodes.identify('06601', ["CZ", "SK"])
+# => {:state_code=>"SK", :state_name=>"Slovenská republika", :city=>"Humenné 1"}
+
+ZipCodes.identify('16000', ["CZ", "SK"])
+# => {:state_code=>"CZ", :state_name=>"Česká republika", :city=>"Praha 6"}
+
+```
+First run or run after change countries will take a while, as the yaml has to be loaded
+
+Available countries:
+```
+US, SK, CZ
 ```
 
 If you are using Rails, you can load the hash on app startup for production and staging.
