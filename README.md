@@ -26,7 +26,7 @@ ZipCodes.identify('06601', ["CZ", "SK"])
 # => {:state_code=>"SK", :state_name=>"Slovenská republika", :city=>"Humenné 1"}
 
 ZipCodes.identify('16000', ["CZ", "SK"])
-# => {:state_code=>"CY", :state_name=>"Česká republika", :city=>"Praha 6"}
+# => {:state_code=>"CZ", :state_name=>"Česká republika", :city=>"Praha 6"}
 
 ```
 First run or run after change countries will take a while, as the yaml has to be loaded
