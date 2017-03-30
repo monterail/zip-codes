@@ -25,7 +25,7 @@ module ZipCodes
           cities << zip[1][:city]
         end
       end
-      cities
+      cities.uniq
     end
 
     def db
