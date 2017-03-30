@@ -18,6 +18,16 @@ module ZipCodes
       zip_codes
     end
 
+    def get_cities(state_name)
+      cities = []
+      db.each do |zip|
+        if zip[1][:state_name] == state_name
+          cities << zip[1][:city]
+        end
+      end
+      cities
+    end
+
     def db
       @db ||= begin
         this_file = File.expand_path(File.dirname(__FILE__))
