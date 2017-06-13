@@ -28,6 +28,14 @@ module ZipCodes
       cities.uniq
     end
 
+    def all_zipcodes
+      codes = []
+      db.each do |zip|
+        codes << zip[0]
+      end
+      codes
+    end
+
     def db
       @db ||= begin
         this_file = File.expand_path(File.dirname(__FILE__))
