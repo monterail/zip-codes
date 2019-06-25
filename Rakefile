@@ -1,5 +1,6 @@
 require 'bundler/gem_tasks'
 require 'yaml'
+require 'benchmark'
 
 file 'lib/data/US.yml' do
   codes = {}
@@ -22,3 +23,15 @@ file 'lib/data/US.marshal' => 'lib/data/US.yml' do
 end
 
 task :convert => ['lib/data/US.marshal', 'lib/data/US.yml']
+
+task :benchmark => :convert do
+  Benchmark.bm(15) do |x|
+    x.report("YAML.load") do
+      YAML.load(File.read('lib/data/US.yml'))
+    end
+
+    x.report("Marshal.load") do
+      Marshal.load(File.read('lib/data/US.marshal'))
+    end
+  end
+end
