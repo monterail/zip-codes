@@ -1,5 +1,3 @@
-require 'yaml'
-
 module ZipCodes
   VERSION = '0.2.1'
 
@@ -11,8 +9,8 @@ module ZipCodes
     def db
       @db ||= begin
         this_file = File.expand_path(File.dirname(__FILE__))
-        us_data = File.join(this_file, 'data', 'US.yml')
-        YAML.load(File.open(us_data))
+        us_data = File.join(this_file, 'data', 'US.marshal')
+        Marshal.load(File.open(us_data))
       end
     end
 
