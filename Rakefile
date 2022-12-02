@@ -14,7 +14,5 @@ task :convert do
     }
   end
 
-  File.open('lib/data/US.yml', 'w') do |file|
-    file.write codes.to_yaml
-  end
+  File.write('lib/data/US.yml', codes.to_yaml)
 end
