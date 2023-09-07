@@ -3,7 +3,7 @@
 require 'yaml'
 
 module ZipCodes
-  VERSION = '0.3.0'
+  VERSION = '0.3.1'
 
   class << self
     def identify(code)
