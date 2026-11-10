@@ -4467,6 +4467,11 @@
   :state_name: Alabama
   :city: Birmingham
   :time_zone: America/Chicago
+'35270':
+  :state_code: AL
+  :state_name: Alabama
+  :city: Birmingham
+  :time_zone: America/Chicago
 '35275':
   :state_code: AL
   :state_name: Alabama
@@ -7501,6 +7506,11 @@
   :state_name: Arkansas
   :city: Jonesboro
   :time_zone: America/Chicago
+'72405':
+  :state_code: AR
+  :state_name: Arkansas
+  :city: Jonesboro
+  :time_zone: America/Chicago
 '72411':
   :state_code: AR
   :state_name: Arkansas
@@ -9696,6 +9706,11 @@
   :state_name: Arkansas
   :city: Little Rock
   :time_zone: America/Chicago
+'72255':
+  :state_code: AR
+  :state_name: Arkansas
+  :city: Little Rock
+  :time_zone: America/Chicago
 '72295':
   :state_code: AR
   :state_name: Arkansas
@@ -11551,6 +11566,11 @@
   :state_name: Arizona
   :city: Phoenix
   :time_zone: America/Phoenix
+'85117':
+  :state_code: AZ
+  :state_name: Arizona
+  :city: Apache Junction
+  :time_zone: America/Phoenix
 '85142':
   :state_code: AZ
   :state_name: Arizona
@@ -12841,6 +12861,11 @@
   :state_name: Arizona
   :city: Arizona City
   :time_zone: America/Phoenix
+'85127':
+  :state_code: AZ
+  :state_name: Arizona
+  :city: Chandler Heights
+  :time_zone: America/Phoenix
 '85128':
   :state_code: AZ
   :state_name: Arizona
@@ -12891,6 +12916,11 @@
   :state_name: Arizona
   :city: Queen Creek
   :time_zone: America/Phoenix
+'85144':
+  :state_code: AZ
+  :state_name: Arizona
+  :city: San Tan Valley
+  :time_zone: America/Phoenix
 '85145':
   :state_code: AZ
   :state_name: Arizona
@@ -12911,11 +12941,21 @@
   :state_name: Arizona
   :city: Superior
   :time_zone: America/Phoenix
+'85178':
+  :state_code: AZ
+  :state_name: Arizona
+  :city: Apache Junction
+  :time_zone: America/Phoenix
 '85179':
   :state_code: AZ
   :state_name: Arizona
   :city: Florence
   :time_zone: America/Denver
+'85190':
+  :state_code: AZ
+  :state_name: Arizona
+  :city: Tortilla Flat
+  :time_zone: America/Phoenix
 '85193':
   :state_code: AZ
   :state_name: Arizona
@@ -14796,6 +14836,11 @@
   :state_name: California
   :city: Fresno
   :time_zone: America/Los_Angeles
+'93737':
+  :state_code: CA
+  :state_name: California
+  :city: Fresno
+  :time_zone: America/Los_Angeles
 '93740':
   :state_code: CA
   :state_name: California
@@ -16392,6 +16437,11 @@
   :city: Los Angeles
   :time_zone: America/Los_Angeles
 '90103':
+  :state_code: CA
+  :state_name: California
+  :city: Los Angeles
+  :time_zone: America/Los_Angeles
+'90134':
   :state_code: CA
   :state_name: California
   :city: Los Angeles
@@ -21971,6 +22021,11 @@
   :state_name: California
   :city: Hollister
   :time_zone: America/Los_Angeles
+'95025':
+  :state_code: CA
+  :state_name: California
+  :city: San Jose
+  :time_zone: America/Los_Angeles
 '95043':
   :state_code: CA
   :state_name: California
@@ -24012,6 +24067,11 @@
   :city: Stockton
   :time_zone: America/Los_Angeles
 '95213':
+  :state_code: CA
+  :state_name: California
+  :city: Stockton
+  :time_zone: America/Los_Angeles
+'95214':
   :state_code: CA
   :state_name: California
   :city: Stockton
@@ -33506,6 +33566,11 @@
   :state_name: District of Columbia
   :city: Washington
   :time_zone: America/New_York
+'20252':
+  :state_code: DC
+  :state_name: District of Columbia
+  :city: Washington
+  :time_zone: America/New_York
 '20254':
   :state_code: DC
   :state_name: District of Columbia
@@ -36016,6 +36081,11 @@
   :state_name: Florida
   :city: Floral City
   :time_zone: America/New_York
+'34441':
+  :state_code: FL
+  :state_name: Florida
+  :city: Hernando
+  :time_zone: America/New_York
 '34442':
   :state_code: FL
   :state_name: Florida
@@ -36947,6 +37017,11 @@
   :city: Palm Coast
   :time_zone: America/New_York
 '32142':
+  :state_code: FL
+  :state_name: Florida
+  :city: Palm Coast
+  :time_zone: America/New_York
+'32143':
   :state_code: FL
   :state_name: Florida
   :city: Palm Coast
@@ -38676,6 +38751,11 @@
   :state_name: Florida
   :city: Sarasota
   :time_zone: America/New_York
+'34249':
+  :state_code: FL
+  :state_name: Florida
+  :city: Sarasota
+  :time_zone: America/New_York
 '34250':
   :state_code: FL
   :state_name: Florida
@@ -39471,6 +39551,11 @@
   :state_name: Florida
   :city: Miami
   :time_zone: America/New_York
+'33191':
+  :state_code: FL
+  :state_name: Florida
+  :city: Miami
+  :time_zone: America/New_York
 '33192':
   :state_code: FL
   :state_name: Florida
@@ -39501,7 +39586,17 @@
   :state_name: Florida
   :city: Miami
   :time_zone: America/New_York
+'33198':
+  :state_code: FL
+  :state_name: Florida
+  :city: Miami
+  :time_zone: America/New_York
 '33199':
+  :state_code: FL
+  :state_name: Florida
+  :city: Miami
+  :time_zone: America/New_York
+'33206':
   :state_code: FL
   :state_name: Florida
   :city: Miami
@@ -44442,6 +44537,11 @@
   :state_name: Georgia
   :city: Atlanta
   :time_zone: America/New_York
+'31144':
+  :state_code: GA
+  :state_name: Georgia
+  :city: Kennesaw
+  :time_zone: America/New_York
 '31145':
   :state_code: GA
   :state_name: Georgia
@@ -45396,6 +45496,11 @@
   :state_code: GA
   :state_name: Georgia
   :city: Atlanta
+  :time_zone: America/New_York
+'31169':
+  :state_code: GA
+  :state_name: Georgia
+  :city: Peachtree City
   :time_zone: America/New_York
 '31170':
   :state_code: GA
@@ -52162,6 +52267,11 @@
   :state_name: Iowa
   :city: Ferguson
   :time_zone: America/Chicago
+'50099':
+  :state_code: IA
+  :state_name: Iowa
+  :city: Boone
+  :time_zone: America/Chicago
 '50106':
   :state_code: IA
   :state_name: Iowa
@@ -53128,6 +53238,16 @@
   :city: Des Moines
   :time_zone: America/Chicago
 '50981':
+  :state_code: IA
+  :state_name: Iowa
+  :city: Des Moines
+  :time_zone: America/Chicago
+'50982':
+  :state_code: IA
+  :state_name: Iowa
+  :city: Des Moines
+  :time_zone: America/Chicago
+'50983':
   :state_code: IA
   :state_name: Iowa
   :city: Des Moines
@@ -59992,6 +60112,11 @@
   :state_name: Illinois
   :city: Aurora
   :time_zone: America/Chicago
+'60569':
+  :state_code: IL
+  :state_name: Illinois
+  :city: Aurora
+  :time_zone: America/Chicago
 '60901':
   :state_code: IL
   :state_name: Illinois
@@ -63977,6 +64102,11 @@
   :state_name: Illinois
   :city: Crete
   :time_zone: America/Chicago
+'60418':
+  :state_code: IL
+  :state_name: Illinois
+  :city: Crestwood
+  :time_zone: America/Chicago
 '60421':
   :state_code: IL
   :state_name: Illinois
@@ -67298,6 +67428,11 @@
   :city: Indianapolis
   :time_zone: America/Indiana/Indianapolis
 '46285':
+  :state_code: IN
+  :state_name: Indiana
+  :city: Indianapolis
+  :time_zone: America/Indiana/Indianapolis
+'46288':
   :state_code: IN
   :state_name: Indiana
   :city: Indianapolis
@@ -72882,6 +73017,11 @@
   :state_name: Kansas
   :city: Topeka
   :time_zone: America/Chicago
+'66630':
+  :state_code: KS
+  :state_name: Kansas
+  :city: Topeka
+  :time_zone: America/Chicago
 '66634':
   :state_code: KS
   :state_name: Kansas
@@ -73676,6 +73816,11 @@
   :state_code: KY
   :state_name: Kentucky
   :city: Florence
+  :time_zone: America/Kentucky/Louisville
+'41025':
+  :state_code: KY
+  :state_name: Kentucky
+  :city: Erlanger
   :time_zone: America/Kentucky/Louisville
 '41042':
   :state_code: KY
@@ -75437,6 +75582,11 @@
   :state_name: Kentucky
   :city: Fort Knox
   :time_zone: America/Kentucky/Louisville
+'40122':
+  :state_code: KY
+  :state_name: Kentucky
+  :city: Fort Knox
+  :time_zone: America/Kentucky/Louisville
 '40159':
   :state_code: KY
   :state_name: Kentucky
@@ -76476,6 +76626,11 @@
   :state_code: KY
   :state_name: Kentucky
   :city: Covington
+  :time_zone: America/Kentucky/Louisville
+'41021':
+  :state_code: KY
+  :state_name: Kentucky
+  :city: Hebron
   :time_zone: America/Kentucky/Louisville
 '41051':
   :state_code: KY
@@ -84851,6 +85006,11 @@
   :state_code: MA
   :state_name: Massachusetts
   :city: Chelmsford
+  :time_zone: America/New_York
+'01825':
+  :state_code: MA
+  :state_name: Massachusetts
+  :city: North Reading
   :time_zone: America/New_York
 01826:
   :state_code: MA
@@ -102400,6 +102560,11 @@
   :state_name: Minnesota
   :city: Saint Paul
   :time_zone: America/Chicago
+'55131':
+  :state_code: MN
+  :state_name: Minnesota
+  :city: Saint Paul
+  :time_zone: America/Chicago
 '55133':
   :state_code: MN
   :state_name: Minnesota
@@ -105215,6 +105380,11 @@
   :state_name: Missouri
   :city: Kansas City
   :time_zone: America/Chicago
+'64162':
+  :state_code: MO
+  :state_name: Missouri
+  :city: Kansas City
+  :time_zone: America/Chicago
 '64165':
   :state_code: MO
   :state_name: Missouri
@@ -105959,6 +106129,11 @@
   :state_code: MO
   :state_name: Missouri
   :city: Springfield
+  :time_zone: America/Chicago
+'72643':
+  :state_code: MO
+  :state_name: Missouri
+  :city: Lead Hill
   :time_zone: America/Chicago
 '64641':
   :state_code: MO
@@ -106990,6 +107165,11 @@
   :state_name: Missouri
   :city: Alma
   :time_zone: America/Chicago
+'64002':
+  :state_code: MO
+  :state_name: Missouri
+  :city: Lees Summit
+  :time_zone: America/Chicago
 '64011':
   :state_code: MO
   :state_name: Missouri
@@ -107179,6 +107359,11 @@
   :state_code: MO
   :state_name: Missouri
   :city: Troy
+  :time_zone: America/Chicago
+'63380':
+  :state_code: MO
+  :state_name: Missouri
+  :city: Truesdale
   :time_zone: America/Chicago
 '63381':
   :state_code: MO
@@ -117142,6 +117327,11 @@
   :state_name: North Carolina
   :city: High Point
   :time_zone: America/New_York
+'27268':
+  :state_code: NC
+  :state_name: North Carolina
+  :city: High Point
+  :time_zone: America/New_York
 '27282':
   :state_code: NC
   :state_name: North Carolina
@@ -122657,6 +122847,11 @@
   :state_name: North Dakota
   :city: Williston
   :time_zone: America/Chicago
+'58803':
+  :state_code: ND
+  :state_name: North Dakota
+  :city: Williston
+  :time_zone: America/Chicago
 '58830':
   :state_code: ND
   :state_name: North Dakota
@@ -128092,6 +128287,11 @@
   :state_name: New Jersey
   :city: Trenton
   :time_zone: America/New_York
+'08644':
+  :state_code: NJ
+  :state_name: New Jersey
+  :city: Trenton
+  :time_zone: America/New_York
 08002:
   :state_code: NJ
   :state_name: New Jersey
@@ -131687,6 +131887,11 @@
   :state_name: New Mexico
   :city: Las Cruces
   :time_zone: America/Denver
+'88013':
+  :state_code: NM
+  :state_name: New Mexico
+  :city: Las Cruces
+  :time_zone: America/Denver
 '88021':
   :state_code: NM
   :state_name: New Mexico
@@ -132711,6 +132916,11 @@
   :state_code: NM
   :state_name: New Mexico
   :city: Rio Rancho
+  :time_zone: America/Denver
+'87151':
+  :state_code: NM
+  :state_name: New Mexico
+  :city: Albuquerque
   :time_zone: America/Denver
 '87037':
   :state_code: NM
@@ -134358,6 +134568,11 @@
   :city: Sparks
   :time_zone: America/Los_Angeles
 '89436':
+  :state_code: NV
+  :state_name: Nevada
+  :city: Sparks
+  :time_zone: America/Los_Angeles
+'89437':
   :state_code: NV
   :state_name: Nevada
   :city: Sparks
@@ -142568,6 +142783,11 @@
   :city: Jamaica
   :time_zone: America/New_York
 '11436':
+  :state_code: NY
+  :state_name: New York
+  :city: Jamaica
+  :time_zone: America/New_York
+'11437':
   :state_code: NY
   :state_name: New York
   :city: Jamaica
@@ -151592,6 +151812,11 @@
   :state_name: Ohio
   :city: Williamsport
   :time_zone: America/New_York
+'43194':
+  :state_code: OH
+  :state_name: Ohio
+  :city: Lockbourne
+  :time_zone: America/New_York
 '45613':
   :state_code: OH
   :state_name: Ohio
@@ -153402,6 +153627,11 @@
   :state_name: Ohio
   :city: Bowling Green
   :time_zone: America/New_York
+'43405':
+  :state_code: OH
+  :state_name: Ohio
+  :city: Toledo
+  :time_zone: America/New_York
 '43406':
   :state_code: OH
   :state_name: Ohio
@@ -154223,6 +154453,11 @@
   :city: Oklahoma City
   :time_zone: America/Chicago
 '73173':
+  :state_code: OK
+  :state_name: Oklahoma
+  :city: Oklahoma City
+  :time_zone: America/Chicago
+'73175':
   :state_code: OK
   :state_name: Oklahoma
   :city: Oklahoma City
@@ -159457,7 +159692,17 @@
   :state_name: Oregon
   :city: Portland
   :time_zone: America/Los_Angeles
+'97250':
+  :state_code: OR
+  :state_name: Oregon
+  :city: Portland
+  :time_zone: America/Los_Angeles
 '97251':
+  :state_code: OR
+  :state_name: Oregon
+  :city: Portland
+  :time_zone: America/Los_Angeles
+'97252':
   :state_code: OR
   :state_name: Oregon
   :city: Portland
@@ -159902,6 +160147,11 @@
   :state_name: Oregon
   :city: Beaverton
   :time_zone: America/Los_Angeles
+'97079':
+  :state_code: OR
+  :state_name: Oregon
+  :city: Beaverton
+  :time_zone: America/Los_Angeles
 '97106':
   :state_code: OR
   :state_name: Oregon
@@ -160041,6 +160291,11 @@
   :state_code: OR
   :state_name: Oregon
   :city: Mcminnville
+  :time_zone: America/Los_Angeles
+'97129':
+  :state_code: OR
+  :state_name: Oregon
+  :city: Hillsboro
   :time_zone: America/Los_Angeles
 '97132':
   :state_code: OR
@@ -171158,6 +171413,11 @@
   :city: Hanover
   :time_zone: America/New_York
 '17334':
+  :state_code: PA
+  :state_name: Pennsylvania
+  :city: Hanover
+  :time_zone: America/New_York
+'17335':
   :state_code: PA
   :state_name: Pennsylvania
   :city: Hanover
@@ -183456,6 +183716,11 @@
   :state_name: Texas
   :city: Irving
   :time_zone: America/Chicago
+'75064':
+  :state_code: TX
+  :state_name: Texas
+  :city: Irving
+  :time_zone: America/Chicago
 '75080':
   :state_code: TX
   :state_name: Texas
@@ -186300,6 +186565,11 @@
   :state_code: TX
   :state_name: Texas
   :city: Gunter
+  :time_zone: America/Chicago
+'75059':
+  :state_code: TX
+  :state_name: Texas
+  :city: Irving
   :time_zone: America/Chicago
 '75076':
   :state_code: TX
@@ -192736,6 +193006,11 @@
   :state_name: Texas
   :city: Fort Worth
   :time_zone: America/Chicago
+'76190':
+  :state_code: TX
+  :state_name: Texas
+  :city: Fort Worth
+  :time_zone: America/Chicago
 '76191':
   :state_code: TX
   :state_name: Texas
@@ -193025,6 +193300,11 @@
   :state_code: TX
   :state_name: Texas
   :city: Austin
+  :time_zone: America/Chicago
+'73960':
+  :state_code: TX
+  :state_name: Texas
+  :city: Texhoma
   :time_zone: America/Chicago
 '78617':
   :state_code: TX
@@ -195225,6 +195505,11 @@
   :state_code: UT
   :state_name: Utah
   :city: Midvale
+  :time_zone: America/Denver
+'84048':
+  :state_code: UT
+  :state_name: Utah
+  :city: Lehi
   :time_zone: America/Denver
 '84065':
   :state_code: UT
@@ -201772,6 +202057,11 @@
   :city: Bristol
   :time_zone: America/New_York
 '24203':
+  :state_code: VA
+  :state_name: Virginia
+  :city: Bristol
+  :time_zone: America/New_York
+'24205':
   :state_code: VA
   :state_name: Virginia
   :city: Bristol
@@ -218025,6 +218315,11 @@
   :state_code: WV
   :state_name: West Virginia
   :city: Mullens
+  :time_zone: America/New_York
+'25888':
+  :state_code: WV
+  :state_name: West Virginia
+  :city: Mount Hope
   :time_zone: America/New_York
 '25913':
   :state_code: WV
